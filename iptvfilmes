@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG - 2018)
+#EXTINF:-1 group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="2018", A MORTE Ta de parabens (LEG - 2018)
+#EXTINF:-1  group-title="2018", A MORTE Ta de parabens (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HAPPYDEATHLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
+#EXTINF:-1  group-title="2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/GN7Xdv" group-title="2018", TEMPESTADE: PLANETA EM FÃšRIA (LEG - 2018)
+#EXTINF:-1  group-title="2018", TEMPESTADE: PLANETA EM FÃšRIA (LEG - 2018)
 http://themediafire.club/ondemand/TEMPESTADE%20LEGENDADO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/fNjMso" group-title="2018", PERFEITA é a Mae 2 (LEG - 2018)
+#EXTINF:-1  group-title="2018", PERFEITA é a Mae 2 (LEG - 2018)
 http://themediafire.club/ondemand/PerfeitaEAMae%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/brGVA6" group-title="2018", CRIMINOSOS DE NOVEMBRO (2018)
+#EXTINF:-1 t group-title="2018", CRIMINOSOS DE NOVEMBRO (2018)
 http://themediafire.club/ondemand/CrimonososDeNovembro%20Dublado.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" LEATHERFACE (LEG - 2017)" tvg-logo="https://goo.gl/4GwXJk" group-title="", LEATHERFACE (LEG - 2017)
+#EXTINF:-1 tvg-id="" tvg-name=" LEATHERFACE (LEG - 2017)"  group-title="", LEATHERFACE (LEG - 2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LETHRFCLEG.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" DOMINAÇÃO (2017)" tvg-logo="https://goo.gl/HQshds" group-title="", DOMINAÇÃO (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" DOMINAÇÃO (2017)"  group-title="", DOMINAÇÃO (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DMNCAO.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" ALIBI.COM (2017)" tvg-logo="https://goo.gl/zPjCJT" group-title="", ALIBI.COM (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" ALIBI.COM (2017)" group-title="", ALIBI.COM (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALBCM.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" EM BUSCA DE VIGANÇA (2017)" tvg-logo="https://goo.gl/cpFUwP" group-title="", EM BUSCA DE VIGANÇA (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" EM BUSCA DE VIGANÇA (2017)" group-title="", EM BUSCA DE VIGANÇA (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/EMBSCDVNG.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" O BAR (2017)" tvg-logo="https://goo.gl/b4ctBf" group-title="", O BAR (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" O BAR (2017)"  group-title="", O BAR (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OBAR.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" O ESTRANGEIRO (LEG - 2017)" tvg-logo="https://goo.gl/yz1bqM" group-title="", O ESTRANGEIRO (LEG - 2017)
+#EXTINF:-1 tvg-id="" tvg-name=" O ESTRANGEIRO (LEG - 2017)" group-title="", O ESTRANGEIRO (LEG - 2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OESTNGROLEG.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" O REINO GELADO 3: FOGO E GELO (2017)" tvg-logo="https://goo.gl/Xix9e7" group-title="", O REINO GELADO 3: FOGO E GELO (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" O REINO GELADO 3: FOGO E GELO (2017)"  group-title="", O REINO GELADO 3: FOGO E GELO (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORNOGLDO3.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" O CASTELO DE VIDRO (2017)" tvg-logo="https://goo.gl/R6t9ZA" group-title="", O CASTELO DE VIDRO (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" O CASTELO DE VIDRO (2017)"  group-title="", O CASTELO DE VIDRO (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCSTLDVDR.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" OPERAÇÃO MEKONG (2017)" tvg-logo="https://goo.gl/BPU3xS" group-title="", OPERAÇÃO MEKONG (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" OPERAÇÃO MEKONG (2017)"  group-title="", OPERAÇÃO MEKONG (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OPRCMKNG.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" O ZOOLÓGICO DE VARSÓVIA" tvg-logo="https://goo.gl/29e1jy" group-title="", O ZOOLÓGICO DE VARSÓVIA
+#EXTINF:-1 tvg-id="" tvg-name=" O ZOOLÓGICO DE VARSÓVIA"  group-title="", O ZOOLÓGICO DE VARSÓVIA
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OZOLGCDVRSVIA.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" RESPOSTA ARMADA (2017)" tvg-logo="https://goo.gl/wDKkTS" group-title="", RESPOSTA ARMADA (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" RESPOSTA ARMADA (2017)"  group-title="", RESPOSTA ARMADA (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/RESPSTARMDA.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" SANGUE PELA GLÓRIA (2017)" tvg-logo="https://goo.gl/jSukva" group-title="", SANGUE PELA GLÓRIA (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" SANGUE PELA GLÓRIA (2017)"  group-title="", SANGUE PELA GLÓRIA (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SNGPLGLR.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" SONO MORTAL (2017)" tvg-logo="https://goo.gl/ZCMyso" group-title="", SONO MORTAL (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" SONO MORTAL (2017)"  group-title="", SONO MORTAL (2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" BLADE RUNNER 2049 (2017)" tvg-logo="https://goo.gl/QVdDg8" group-title="", BLADE RUNNER 2049 (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" BLADE RUNNER 2049 (2017)"  group-title="", BLADE RUNNER 2049 (2017)
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BR2049LEG-BAIXO.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA DA JUSTIÇA (ÁUDIO DE CINEMA - 2017)" tvg-logo="https://goo.gl/g7hC8U" group-title="", LIGA DA JUSTIÇA (ÁUDIO DE CINEMA - 2017)
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA DA JUSTIÇA (ÁUDIO DE CINEMA - 2017)" t group-title="", LIGA DA JUSTIÇA (ÁUDIO DE CINEMA - 2017)
 http://s.vstreaming.net/movies/justiceleague-dub-1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" BRIGHT (2017)" tvg-logo="https://goo.gl/XycLBp" group-title="", BRIGHT (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" BRIGHT (2017)"  group-title="", BRIGHT (2017)
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTDUB-BAIXO.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" BRIGHT (LEG - 2017)" tvg-logo="https://goo.gl/XycLBp" group-title="", BRIGHT (LEG - 2017)
+#EXTINF:-1 tvg-id="" tvg-name=" BRIGHT (LEG - 2017)"  group-title="", BRIGHT (LEG - 2017)
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTLEG-BAIXO.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" ALÉM DA MORTE (2017)" tvg-logo="https://goo.gl/eBLWrr" group-title="", ALÉM DA MORTE (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" ALÉM DA MORTE (2017)"  group-title="", ALÉM DA MORTE (2017)
 http://s.vstreaming.net/movies/alemdamorte-dub-720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)" tvg-logo="https://goo.gl/vPMiqX" group-title="", OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)"  group-title="", OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
 http://themediafire.club/ondemand/OlafNovaAventura%20Dublado.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TROLLS: VAMOS FESTEJAR (2017)" tvg-logo="https://goo.gl/Znekwh" group-title="", TROLLS: VAMOS FESTEJAR (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" TROLLS: VAMOS FESTEJAR (2017)"  group-title="", TROLLS: VAMOS FESTEJAR (2017)
 http://themediafire.club/ondemand/TrollsVamosFestejar%20Dublado.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" MÃE! (2017)" tvg-logo="https://goo.gl/caqMRm" group-title="", MÃE! (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" MÃE! (2017)"  group-title="", MÃE! (2017)
 http://s.vstreaming.net/movies/mom-dub-720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" EM DEFESA DE CRISTO (2017)" tvg-logo="https://goo.gl/2BYAtG" group-title="", EM DEFESA DE CRISTO (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" EM DEFESA DE CRISTO (2017)"  group-title="", EM DEFESA DE CRISTO (2017)
 http://s.vstreaming.net/movies/ocasodecistro-dub-720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" BINGO: O REI DAS MANHÃS (2017)" tvg-logo="https://goo.gl/R2VysD" group-title="", BINGO: O REI DAS MANHÃS (2017)
+#EXTINF:-1 tvg-id="" tvg-name=" BINGO: O REI DAS MANHÃS (2017)"  group-title="", BINGO: O REI DAS MANHÃS (2017)
 http://s.vstreaming.net/movies/bingo-dub-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" COMO SE TORNAR O PIOR ALUNO DA ESCOLA (2017)" tvg-logo="https://goo.gl/6bCavH" group-title="", COMO SE TORNAR O PIOR ALUNO DA ESCOLA (2017)
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/CSATOPADENACIONAL-BAIXO.mp4
