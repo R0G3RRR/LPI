@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="2018", A MORTE TE DÃ PARABÃ‰NS (LEG - 2018)
+#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="2018", A MORTE Ta de parabens (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HAPPYDEATHLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GN7Xdv" group-title="2018", TEMPESTADE: PLANETA EM FÃšRIA (LEG - 2018)
 http://themediafire.club/ondemand/TEMPESTADE%20LEGENDADO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/fNjMso" group-title="2018", PERFEITA Ã‰ A MÃƒE 2 (LEG - 2018)
+#EXTINF:-1 tvg-logo="https://goo.gl/fNjMso" group-title="2018", PERFEITA é a Mae 2 (LEG - 2018)
 http://themediafire.club/ondemand/PerfeitaEAMae%20Dublado.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/brGVA6" group-title="2018", CRIMINOSOS DE NOVEMBRO (2018)
 http://themediafire.club/ondemand/CrimonososDeNovembro%20Dublado.mp4
@@ -293,22 +293,6 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS2.mp4
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" ALVIN E OS ESQUILOS 4: NA ESTRADA (1080p)" tvg-logo="https://goo.gl/hiec4V" group-title="", ALVIN E OS ESQUILOS 4: NA ESTRADA (1080p)
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE: A PRIMEIRA VEZ É INESQUECÍVEL (1080p)" tvg-logo="https://www.megafilmesserieshd.com/wp-content/uploads/2016/11/1poster-171.jpg" group-title="", AMERICAN PIE: A PRIMEIRA VEZ É INESQUECÍVEL (1080p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE1.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 2: A SEGUNDA VEZ É AINDA MELHOR (720p)" tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2015/04/American-pie-2-A-segunda-vez-e-ainda-melhor.jpg" group-title="", AMERICAN PIE 2: A SEGUNDA VEZ É AINDA MELHOR (720p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE2.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 3: O CASAMENTO (720p)" tvg-logo="http://ssdvds.loja2.com.br/img/85279899573d3850bc5308ad89380b82.png" group-title="", AMERICAN PIE 3: O CASAMENTO (720p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE3.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 4: TOCANDO A MAIOR ZONA (720p)" tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2015/04/American-Pie-4-Tocando-a-Maior-Zona.jpg" group-title="", AMERICAN PIE 4: TOCANDO A MAIOR ZONA (720p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE4.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 5: O ÚLTIMO STIFLER VIRGEM (720p)" tvg-logo="http://3.bp.blogspot.com/-evjsqAvZ3-E/T78xZxqiyjI/AAAAAAAAECc/k_MmdrazRns/s400/American%2BPie%2B5%2B-%2BO%2B%25C3%259Altimo%2BStifler%2BVirgem.jpg" group-title="", AMERICAN PIE 5: O ÚLTIMO STIFLER VIRGEM (720p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE5.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 6: CAINDO EM TENTAÇÃO (720p)" tvg-logo="http://1.bp.blogspot.com/-0yOXBzpGapM/UG9PASNRW-I/AAAAAAAADVE/Zf_QC23UY_0/s1600/Capa+American+Pie+6.jpg" group-title="", AMERICAN PIE 6: CAINDO EM TENTAÇÃO (720p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE6.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 7: O LIVRO DO AMOR (480p)" tvg-logo="http://www.assistirfilmeshd.org/thumb.php?src=http://1.bp.blogspot.com/_8_-bQ8R4qaI/S7SdHl24K0I/AAAAAAAAAKY/lHwds7Wuv3s/s1600/american+pie+7.jpg&h=341&w=230" group-title="", AMERICAN PIE 7: O LIVRO DO AMOR (480p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE7.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN PIE 8: O REENCONTRO (1080p)" tvg-logo="http://3.bp.blogspot.com/-dMUvB52KL5M/T51dUmaAgLI/AAAAAAAAD3o/PyOSln4RyZQ/s1600/american+pie+o+reecontro.CAPA.png" group-title="", AMERICAN PIE 8: O REENCONTRO (1080p)
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE8.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" AMOR & AMIZADE (1080p)" tvg-logo="https://goo.gl/ZHqz4P" group-title="", AMOR & AMIZADE (1080p)
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMREAMZD.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" AMOR EM SAMPA (1080p)" tvg-logo="https://goo.gl/dQoPFr" group-title="", AMOR EM SAMPA (1080p)
@@ -3116,13 +3100,3 @@ http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OVZNHO.mp4?STANIPTV
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS1.mp4?STANIPTV
 #EXTINF:-1 tvg-id="" tvg-name="OLHOS FAMINTOS 2 (2003)" tvg-logo="http://i.imgur.com/HeuAGxA.jpg" group-title="",OLHOS FAMINTOS 2 (2003)
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS2.mp4?STANIPTV
-#EXTINF:-1 tvg-id="" tvg-name="OLIVER TWIST (2005)" tvg-logo="http://i.imgur.com/Iogmu7A.jpg" group-title="",OLIVER TWIST (2005)
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLVRTWST.mp4?STANIPTV
-#EXTINF:-1 tvg-id="" tvg-name="ONDE NASCE A ESPERANȁ (2015)" tvg-logo="http://i.imgur.com/WmyYNYv.jpg" group-title="",ONDE NASCE A ESPERANȁ (2015)
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONDNASCESPRCA.mp4?STANIPTV
-#EXTINF:-1 tvg-id="" tvg-name="ONG BAK 2: O GUERREIRO SAGRADO VOLTOU (2009) " tvg-logo="http://i.imgur.com/CSQvtxJ.jpg" group-title="",ONG BAK 2: O GUERREIRO SAGRADO VOLTOU (2009) 
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONGBK2.mp4?STANIPTV
-#EXTINF:-1 tvg-id="" tvg-name="ONG BAK 3 (2010)" tvg-logo="http://i.imgur.com/DX18b2L.jpg" group-title="",ONG BAK 3 (2010)
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONGBK3.mp4?STANIPTV
-#EXTINF:-1 tvg-id="" tvg-name="ONG BAK: GUERREIRO SAGRADO (2003)" tvg-logo="http://i.imgur.com/mgkfQCS.jpg" group-title="",ONG BAK: GUERREIRO SAGRADO (2003)
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONGBK1.mp4?STANIPTV
