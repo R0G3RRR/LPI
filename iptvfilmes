@@ -1,38 +1,40 @@
-#EXTM3U
-#EXTINF:-1  group-title="2018", Batman: Gotham by Gaslight (2018)
+#EXTM3U#EXTINF:-1  group-title="2018", Batman: Gotham by Gaslight (2018)
 http://s.vstreaming.net/movies/batmangaslight-dub-480p.mp4
 #EXTINF:-1  group-title="2018", PICA-PAU: O FILME (2018)
-http://themediafire.club/ondemand/PICAPAU%20DUBLADO.mp4
+http://s.vstreaming.net/movies/picapau-dub-720p.mp4
 #EXTINF:-1  group-title="2018", O ESTADO DAS COISAS (2018)
 http://themediafire.club/ondemand/OESTADODASCOISAS%20DUBLADO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/ydJrUf" group-title="2018", ALVO TRIPLO (2018)
+#EXTINF:-1  group-title="2018", ALVO TRIPLO (2018)
 http://themediafire.club/ondemand/ALVOTRIPLO%20DUBLADO.mp4
-#EXTINF:-1 group-title="2018", THOR 3: RAGNAROK (LEG - 2018)
+
+#EXTINF:-1  group-title="2018", THOR 3: RAGNAROK (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
-#EXTINF:-1 group-title="2018", ONDE ESTÃ SEGUNDA? (2018)
+#EXTINF:-1  group-title="2018", ONDE ESTÃ SEGUNDA? (2018)
 http://s.vstreaming.net/movies/segundafeira-dub-720p.mp4
-#EXTINF:-1 group-title="2018", A GUERRA DOS SEXOS (2018)
+#EXTINF:-1  group-title="2018", A GUERRA DOS SEXOS (2018)
 http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/AGDSDUB-ALTO.mp4
-#EXTINF:-1 group-title="2018", A MENINA ÃNDIGO (2018)
+#EXTINF:-1  group-title="2018", A MENINA ÃNDIGO (2018)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/AMIDUB-ALTO.mp4
-#EXTINF:-1 group-title="2018", A COMÃ‰DIA DIVINA (2018)
+#EXTINF:-1  group-title="2018", A COMÃ‰DIA DIVINA (2018)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ACDDUB-ALTO.mp4
-#EXTINF:-1 group-title="2018", O RASTRO (2018)
+#EXTINF:-1  group-title="2018", O RASTRO (2018)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ORASTRODUB-ALTO.mp4
-#EXTINF:-1 group-title="2018", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG - 2018)
+#EXTINF:-1  group-title="2018", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG - 2018)
 http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/Voldemort.mp4
-#EXTINF:-1 group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG - 2018)
+
+#EXTINF:-1  group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
-#EXTINF:-1 group-title="2018", A MORTE TE DÃ PARABÃ‰NS (LEG - 2018)
+#EXTINF:-1  group-title="2018", A MORTE TE DÃ PARABÃ‰NS (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HAPPYDEATHLEG-ALTO.mp4
-#EXTINF:-1 group-title="2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-BAIXO.mp4
-#EXTINF:-1 group-title="2018", TEMPESTADE: PLANETA EM FÃšRIA (LEG - 2018)
+#EXTINF:-1  group-title="2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
+#EXTINF:-1  group-title="2018", TEMPESTADE: PLANETA EM FÃšRIA (LEG - 2018)
 http://themediafire.club/ondemand/TEMPESTADE%20LEGENDADO.mp4
-#EXTINF:-1 group-title="2018", PERFEITA Ã‰ A MÃƒE 2 (LEG - 2018)
+#EXTINF:-1  group-title="2018", PERFEITA Ã‰ A MÃƒE 2 (LEG - 2018)
 http://themediafire.club/ondemand/PerfeitaEAMae%20Dublado.mp4
-#EXTINF:-1 group-title="2018", CRIMINOSOS DE NOVEMBRO (2018)
+#EXTINF:-1  group-title="2018", CRIMINOSOS DE NOVEMBRO (2018)
 http://themediafire.club/ondemand/CrimonososDeNovembro%20Dublado.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name=" LEATHERFACE (LEG - 2017)" group-title="", LEATHERFACE (LEG - 2017)
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LETHRFCLEG.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" DOMINAÇÃO (2017)" group-title="", DOMINAÇÃO (2017)
