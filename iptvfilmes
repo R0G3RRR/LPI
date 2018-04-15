@@ -1,8 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=" OS Parcas"  group-title="",  OS Parcas
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-BAIXO.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" LOUCURAS EM FAMILIA"  group-title="",  LOUCURAS EM FAMILIA
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="" group-title="2018", PAI EM DOSE DUPLA 2
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-BAIXO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL: A ÚLTIMA CHAVE - DUB - HD (2018)" group-title="", SOBRENATURAL: A ÚLTIMA CHAVE - DUB - HD (2018)
+http://cdn6.micetop.us/content/delivery/filmes2018/SOBRENATURALDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" CINQUENTA TONS DE LIBERDADE (LEG)"  group-title="",  CINQUENTA TONS DE LIBERDADE (LEG)
+http://cdn6.micetop.us/content/delivery/filmes2018/TONSDELIBERDADELEG2018-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" PROUD MARY (LEG)"  group-title="",  PROUD MARY (LEG)
+http://cdn6.micetop.us/content/delivery/filmes2018/PROUDMARYLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" ESQUADRÃO SUICIDA: ACERTO DE CONTAS (DUB)"  group-title="",  ESQUADRÃO SUICIDA: ACERTO DE CONTAS (DUB)
+http://cdn6.micetop.us/content/delivery/filmes2018/HELLTOPAYDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" ESQUADRÃO SUICIDA: ACERTO DE CONTAS (LEG)"  group-title="",  ESQUADRÃO SUICIDA: ACERTO DE CONTAS (LEG)
+http://cdn6.micetop.us/content/delivery/filmes2018/HELLTOPAY-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" I KILL GIANTS (LEG)"  group-title="",  I KILL GIANTS (LEG)
+http://cdn6.micetop.us/content/delivery/filmes2018/IKILLGIANTSLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TERRA SELVAGEM (DUB)"  group-title="",  TERRA SELVAGEM (DUB)
+http://cdn6.micetop.us/content/delivery/filmes2018/TERRASELVAGEMDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 12 HERÓIS (LEG)"  group-title="",  12 HERÓIS (LEG)
+http://cdn6.micetop.us/content/delivery/filmes2018/12STRONGLEG2018-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" UM DIA DE CAOS (DUB)"  group-title="",  UM DIA DE CAOS (DUB)
+http://cdn6.micetop.us/content/delivery/filmes2018/UMDIADECAOSDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" THE TITAN (LEG) "  group-title="",  THE TITAN (LEG) 
+http://cdn6.micetop.us/content/delivery/filmes2018/THETITANLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" O PASSAGEIRO (LEG) "  group-title="",  O PASSAGEIRO (LEG) 
+http://cdn6.micetop.us/content/delivery/filmes2018/THECOMMUTERLEGV2-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" CORPO FECHADO (240p A 720p)"  group-title="",  CORPO FECHADO (240p A 720p)
+http://content.uplynk.com/acde39d6f5554d52a64f1aa3e4244e00.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade - LEG"  group-title="", Cinquenta Tons de Liberdade - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/TONSDELIBERDADELEG2018-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PROUD MARY - LEG" group-title="", PROUD MARY - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/PROUDMARYLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO SUICIDA: ACERTO DE CONTAS - DUB" group-title="", ESQUADRÃO SUICIDA: ACERTO DE CONTAS - DUB
+http://cdn6.micetop.us/content/delivery/filmes2018/HELLTOPAYDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO SUICIDA: ACERTO DE CONTAS - LEG" group-title="", ESQUADRÃO SUICIDA: ACERTO DE CONTAS - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/HELLTOPAY-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Heróis - LEG"  group-title="", 12 Heróis - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/12STRONGLEG2018-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aniquilação"  group-title="", Aniquilação
+http://player2.aovivohd.site/Filme-Dublado/13-03/ANIQUILACAODUB-BAIXO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade - LEG"  group-title="", Cinquenta Tons de Liberdade - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/TONSDELIBERDADELEG2018-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO SUICIDA: ACERTO DE CONTAS - DUB" group-title="", ESQUADRÃO SUICIDA: ACERTO DE CONTAS - DUB
+http://cdn6.micetop.us/content/delivery/filmes2018/HELLTOPAYDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO SUICIDA: ACERTO DE CONTAS - LEG" group-title="", ESQUADRÃO SUICIDA: ACERTO DE CONTAS - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/HELLTOPAY-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Show - DUB"  group-title="", O Rei do Show - DUB
+http://cdn6.micetop.us/content/delivery/filmes2018/OREIDOSHOWDUB-ALTO.mp4?STANIPTV
+#EXTINF:-1 tvg-id="" tvg-name="PROUD MARY - LEG"  group-title="", PROUD MARY - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/PROUDMARYLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL: A ÚLTIMA CHAVE - DUB - HD (2018)" group-title="", SOBRENATURAL: A ÚLTIMA CHAVE - DUB - HD (2018)
+http://cdn6.micetop.us/content/delivery/filmes2018/SOBRENATURALDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider: A Origem"  group-title="", Tomb Raider: A Origem
+http://player2.aovivohd.site/Filme-Dublado/16-03/Tomb%20Raider.A%20Origem.2018.HDTS.720p.Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM DIA DE CAOS - DUB"  group-title="", UM DIA DE CAOS - DUB
+http://cdn6.micetop.us/content/delivery/filmes2018/UMDIADECAOSDUB-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Floresta Muito Louca" group-title="", Uma Floresta Muito Louca
+http://player2.aovivohd.site/Filme-Dublado/12-03/Uma%20Floresta%20Muito%20Louca%20%C2%ABPlayer%20TheVid%C2%BB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vilã"  group-title="", A Vilã
+http://player2.aovivohd.site/Filme-Dublado/16-03/A%20Vil%C3%A3%202018%20720p%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honra ao Mérito"  group-title="", Honra ao Mérito
+http://player2.aovivohd.site/Filme-Dublado/11-03/Honra%20ao%20M%C3%A9rito%202018%20720p%20DUBLADO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Kill Giants - LEG"  group-title="", I Kill Giants - LEG
+http://cdn6.micetop.us/content/delivery/filmes2018/IKILLGIANTSLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KONG: A ILHA DA CAVEIRA - LEG - HD" group-title="", KONG: A ILHA DA CAVEIRA - LEG - HD
+http://cdn6.micetop.us/content/sobdemanda/netcine-bucket/filmes2017/KONGLEG-BAIXO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana: Um Mar de Aventuras (2017)"  group-title="", Moana: Um Mar de Aventuras (2017)
+http://cdn6.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MOANADUB-BAIXO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MOONLIGHT: SOB A LUZ DO LUAR - LEG - HD (2017)"  group-title="", MOONLIGHT: SOB A LUZ DO LUAR - LEG - HD (2017)
